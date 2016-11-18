@@ -1,0 +1,17 @@
+/*Homepage Fonts CSS Document*/
+@font-face
+{
+font-family: Coolvetica;
+src: url(/fonts/coolvetica.ttf);
+}
+
+h1,
+h2,
+h4
+{
+font-family:Coolvetica;
+}
+
+brandkey {
+	font-family:Coolvetica;
+}
